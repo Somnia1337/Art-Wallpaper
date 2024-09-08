@@ -12,7 +12,7 @@
 
 收藏的名画作品：
 
-| Title                                           | Artist                            | Year      |
+| 作品名                                          | 艺术家                            | 年份      |
 | ----------------------------------------------- | --------------------------------- | --------- |
 | A Coastal Landscape in the South of France      | 尤金·罗伯特 (Eugene Robert)       | 未知      |
 | A Dream                                         | 巴勃罗·毕加索 (Pablo Picasso)     | 1932      |
