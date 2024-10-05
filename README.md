@@ -12,24 +12,24 @@ My personal collection of **recreations of famous artworks**, in **8K Ultra HD (
 
 List of artworks in the collection:
 
-| Title                                           | Artist             | Year      |
-| ----------------------------------------------- | ------------------ | --------- |
-| A Coastal Landscape in the South of France      | Eugene Robert      | unknown   |
-| A Dream                                         | Pablo Picasso      | 1932      |
-| A Sunday on La Grande Jatte                     | Georges Seurat     | 1884-1886 |
-| Green Wheat Fields                              | Vincent van Gogh   | 1890      |
-| Impression, Sunrise                             | Claude Monet       | 1872      |
-| Marine                                          | Charles Atamian    | unknown   |
-| Self-Portrait with Grey Felt Hat                | Vincent van Gogh   | 1887      |
-| Starry Night Over the Rhone                     | Vincent van Gogh   | 1888      |
-| The Great Wave off Kanagawa                     | Katsushika Hokusai | ~1831     |
-| The Persistence of Memory                       | Salvador Dalí      | 1931      |
-| The Scream                                      | Edvard Munch       | 1893      |
-| The Son of Man                                  | René Magritte      | 1964      |
-| The Starry Night                                | Vincent van Gogh   | 1889      |
-| The Treachery of Images                         | René Magritte      | 1929      |
-| Wheat Field with Cypresses                      | Vincent van Gogh   | 1889      |
-| Woman with a Parasol - Madame Monet and Her Son | Claude Monet       | 1875      |
+| Title                                           | Artist             | Year      | Background Color |
+| ----------------------------------------------- | ------------------ | --------- | ---------------- |
+| A Coastal Landscape in the South of France      | Eugene Robert      | unknown   | `#a7d2dc`        |
+| A Dream                                         | Pablo Picasso      | 1932      | `#e7aab8`        |
+| A Sunday on La Grande Jatte                     | Georges Seurat     | 1884-1886 | `#b1c0ce`        |
+| Green Wheat Fields                              | Vincent van Gogh   | 1890      | `#89b789`        |
+| Impression, Sunrise                             | Claude Monet       | 1872      | `#9db7b8`        |
+| Marine                                          | Charles Atamian    | unknown   | `#72b8d2`        |
+| Self-Portrait with Grey Felt Hat                | Vincent van Gogh   | 1887      | `#41566b`        |
+| Starry Night Over the Rhone                     | Vincent van Gogh   | 1888      | `#1f5482`        |
+| The Great Wave off Kanagawa                     | Katsushika Hokusai | ~1831     | `#2b6a8c`        |
+| The Persistence of Memory                       | Salvador Dalí      | 1931      | `#848484`        |
+| The Scream                                      | Edvard Munch       | 1893      | `#ea7b4c`        |
+| The Son of Man                                  | René Magritte      | 1964      | `#689f52`        |
+| The Starry Night                                | Vincent van Gogh   | 1889      | `#3953aa`        |
+| The Treachery of Images                         | René Magritte      | 1929      | `#91744a`        |
+| Wheat Field with Cypresses                      | Vincent van Gogh   | 1889      | `#7290c1`        |
+| Woman with a Parasol - Madame Monet and Her Son | Claude Monet       | 1875      | `#68a5cc`        |
 
 # How I recreated
 
