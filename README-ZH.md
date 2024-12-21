@@ -1,14 +1,16 @@
 [English](https://github.com/Somnia1337/Art-Wallpaper/blob/main/README.md) | 中文
 
-# [名画映像](https://github.com/Somnia1337/Art-Wallpaper)
+# [艺术映像](https://github.com/Somnia1337/Art-Wallpaper)
 
-我的 **名画二创** 作品，提供 **8K 超高清（7680 \* 4320）** 分辨率。
+我的 **艺术二创** 作品，提供 **8K 超高清（7680 \* 4320）** 分辨率。
 
 <div align=center>
   <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview.png?raw=true" width="1920px">
 </div>
 
 # 作品列表
+
+收藏的摄影作品均挑选自 [Unsplash](https://unsplash.com/)，这里不一一列举。
 
 收藏的名画作品：
 
@@ -37,6 +39,6 @@
 
 **背景颜色**：用取色器从画作图像中反复选取（每件作品约 10-30 次取色），具有一定的随机性（这也是艺术创作所必需的）。
 
-**制作**：一个简单的网页文件（`template.html`）。
+**制作**：一个简单的网页文件（见 templates 目录）。
 
 **截取**：用浏览器的开发者工具（具体方法略）。

@@ -2,7 +2,7 @@ English | [中文](https://github.com/Somnia1337/Art-Wallpaper/blob/main/README-
 
 # [Art-Wallpaper](https://github.com/Somnia1337/Art-Wallpaper)
 
-My personal collection of **recreations of famous artworks**, in **8K Ultra HD (7680 \* 4320)**.
+My personal collection of **recreations of aesthetic artworks**, in **8K Ultra HD (7680 \* 4320)**.
 
 <div align=center>
   <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview.png?raw=true" width="1920px">
@@ -10,7 +10,9 @@ My personal collection of **recreations of famous artworks**, in **8K Ultra HD (
 
 # Artworks
 
-List of artworks in the collection:
+Photography works are selected from [Unsplash](https://unsplash.com/), which aren't listed here.
+
+List of Paintings in the collection:
 
 | Title                                           | Artist             | Year      | Background Color |
 | ----------------------------------------------- | ------------------ | --------- | ---------------- |
@@ -35,8 +37,8 @@ List of artworks in the collection:
 
 **Artwork**: Picked from massive online resources.
 
-**Background color**: Sampled from the artwork's image using a color picker (approximately 10-30 picks/artwork), with some kind of randomness (which is also part of the artistic creation process).
+**Background color**: Sampled from the artwork's image using a color picker (10-30 picks/artwork on average), with some kind of randomness (which is also part of the artistic creation process).
 
-**Creation**: A simple webpage (`template.html`).
+**Creation**: A simple webpage (see templates dir).
 
 **Cropping**: Using browser developer tools (specific steps omitted).
