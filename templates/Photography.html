@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Art-Wallpaper-Photography</title>
+    <style>
+      body {
+        /* pick from artwork */
+        background-color: #73a4cc;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      .image-container {
+        position: relative;
+        display: inline-block;
+      }
+      .image-container img {
+        /* modify width */
+        width: 3240px;
+        position: relative;
+      }
+      .cross {
+        position: absolute;
+        width: 400px;
+        height: 400px;
+        transform: translate(-50%, -50%);
+      }
+      .cross .horizontal {
+        position: absolute;
+        background: linear-gradient(
+          to right,
+          rgba(255, 255, 255, 0) 0%,
+          rgba(255, 255, 255, 1) 30%,
+          rgba(255, 255, 255, 0) 100%
+        );
+      }
+      .cross .vertical {
+        position: absolute;
+        background: linear-gradient(
+          to bottom,
+          rgba(255, 255, 255, 0) 0%,
+          rgba(255, 255, 255, 1) 30%,
+          rgba(255, 255, 255, 0) 100%
+        );
+      }
+      .cross .horizontal {
+        width: 400px;
+        height: 20px;
+        top: 30%;
+        left: 0;
+        transform: translateY(-50%);
+      }
+      .cross .vertical {
+        height: 400px;
+        width: 20px;
+        left: 30%;
+        top: 0;
+        transform: translateX(-50%);
+      }
+      .cross.top-left {
+        top: -100px;
+        left: -100px;
+      }
+      .cross.bottom-right {
+        bottom: -300px;
+        right: -300px;
+        transform: rotate(180deg);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="image-container">
+      <img src="/path/to/artwork.jpg" />
+      <div class="cross top-left">
+        <div class="horizontal"></div>
+        <div class="vertical"></div>
+      </div>
+      <div class="cross bottom-right">
+        <div class="horizontal"></div>
+        <div class="vertical"></div>
+      </div>
+    </div>
+  </body>
+</html>

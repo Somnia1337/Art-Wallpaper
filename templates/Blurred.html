@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Art-Wallpaper-Blurred</title>
+    <style>
+      body,
+      html {
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      .bg-blur {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 110%;
+        height: 110%;
+        background-image: url("/path/to/that-same-artwork.jpg");
+        background-position: center;
+        background-size: cover;
+        filter: blur(180px);
+        z-index: -1;
+      }
+      .image-container {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        box-shadow: 0 0 300px 40px rgba(0, 0, 0, 0.8);
+      }
+      .image-container img {
+        /* modify width */
+        width: 3240px;
+        display: block;
+        object-fit: contain;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="bg-blur"></div>
+    <div class="image-container">
+      <img src="/path/to/artwork.jpg" />
+    </div>
+  </body>
+</html>
