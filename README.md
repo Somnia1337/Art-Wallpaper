@@ -5,14 +5,20 @@ English | [中文](https://github.com/Somnia1337/Art-Wallpaper/blob/main/README-
 My personal collection of **recreations of aesthetic artworks**, in **8K Ultra HD (7680 \* 4320)**.
 
 <div align=center>
-  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview.png?raw=true" width="1920px">
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview-Painting-and-Photography.png?raw=true" width="1920px">
+</div>
+
+<div align=center>
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview-Minecraft.png?raw=true" width="1920px">
 </div>
 
 # Artworks
 
-Photography works are selected from [Unsplash](https://unsplash.com/), which aren't listed here.
+**Photography** works are selected from [Unsplash](https://unsplash.com/), which aren't listed here.
 
-List of Paintings in the collection:
+**Minecraft** screenshots are taken from a random world with shaderpack `ComplementaryReimagined_r5.1.1` on.
+
+List of **Paintings** in the collection:
 
 | Title                                           | Artist             | Year      | Background Color |
 | ----------------------------------------------- | ------------------ | --------- | ---------------- |

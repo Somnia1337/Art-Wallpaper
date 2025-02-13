@@ -5,14 +5,20 @@
 我的 **艺术二创** 作品，提供 **8K 超高清（7680 \* 4320）** 分辨率。
 
 <div align=center>
-  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview.png?raw=true" width="1920px">
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview-Painting-and-Photography.png?raw=true" width="1920px">
+</div>
+
+<div align=center>
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview-Minecraft.png?raw=true" width="1920px">
 </div>
 
 # 作品列表
 
-收藏的摄影作品均挑选自 [Unsplash](https://unsplash.com/)，这里不一一列举。
+**摄影** 作品均挑选自 [Unsplash](https://unsplash.com/)，这里不一一列举。
 
-收藏的名画作品：
+**Minecraft** 截图截取于一个随机的世界，开启 `ComplementaryReimagined_r5.1.1` 光影。
+
+收藏的 **名画** 作品：
 
 | 作品名                                          | 艺术家                            | 年份      | 背景颜色  |
 | ----------------------------------------------- | --------------------------------- | --------- | --------- |
