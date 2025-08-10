@@ -1,18 +1,36 @@
-English | [中文](https://github.com/Somnia1337/Art-Wallpaper/blob/main/README-ZH.md)
+English | [中文](README-ZH.md)
 
 # [Art-Wallpaper](https://github.com/Somnia1337/Art-Wallpaper)
 
 My personal collection of **recreations of aesthetic artworks**, in **8K Ultra HD (7680 \* 4320)**.
 
 <div align=center>
-  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview-Painting-and-Photography.png?raw=true" width="1920px">
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/preview-Painting-and-Photography.png?raw=true" width="1920px">
 </div>
 
 <div align=center>
-  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview-Minecraft.png?raw=true" width="1920px">
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/preview-Minecraft.png?raw=true" width="1920px">
 </div>
 
-# Artworks
+## Collection
+
+<div align=center>
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/detail-Painting-Sharp.png?raw=true" width="1920px">
+</div>
+
+<div align=center>
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/detail-Photography-Sharp.png?raw=true" width="1920px">
+</div>
+
+<div align=center>
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/detail-Painting-Blurred.png?raw=true" width="1920px">
+</div>
+
+<div align=center>
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/detail-Minecraft.png?raw=true" width="1920px">
+</div>
+
+## Original Artwork
 
 **Photography** works are selected from [Unsplash](https://unsplash.com/), which aren't listed here.
 
@@ -39,7 +57,7 @@ List of **Paintings** in the collection:
 | Wheat Field with Cypresses                      | Vincent van Gogh   | 1889      | `#7290c1`        |
 | Woman with a Parasol - Madame Monet and Her Son | Claude Monet       | 1875      | `#68a5cc`        |
 
-# How I recreated
+## How I recreated
 
 **Artwork**: Picked from massive online resources.
 

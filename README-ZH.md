@@ -1,18 +1,36 @@
-[English](https://github.com/Somnia1337/Art-Wallpaper/blob/main/README.md) | 中文
+[English](README.md) | 中文
 
 # [艺术映像](https://github.com/Somnia1337/Art-Wallpaper)
 
 我的 **艺术二创** 作品，提供 **8K 超高清（7680 \* 4320）** 分辨率。
 
 <div align=center>
-  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview-Painting-and-Photography.png?raw=true" width="1920px">
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/preview-Painting-and-Photography.png?raw=true" width="1920px">
 </div>
 
 <div align=center>
-  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview-Minecraft.png?raw=true" width="1920px">
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/preview-Minecraft.png?raw=true" width="1920px">
 </div>
 
-# 作品列表
+## 作品
+
+<div align=center>
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/detail-Painting-Sharp.png?raw=true" width="1920px">
+</div>
+
+<div align=center>
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/detail-Photography-Sharp.png?raw=true" width="1920px">
+</div>
+
+<div align=center>
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/detail-Painting-Blurred.png?raw=true" width="1920px">
+</div>
+
+<div align=center>
+  <img src="https://github.com/Somnia1337/Art-Wallpaper/blob/main/preview/detail-Minecraft.png?raw=true" width="1920px">
+</div>
+
+## 原作品
 
 **摄影** 作品均挑选自 [Unsplash](https://unsplash.com/)，这里不一一列举。
 
@@ -39,7 +57,7 @@
 | Wheat Field with Cypresses                      | 文森特·梵高 (Vincent van Gogh)    | 1889      | `#7290c1` |
 | Woman with a Parasol - Madame Monet and Her Son | 克劳德·莫奈 (Claude Monet)        | 1875      | `#68a5cc` |
 
-# 二创历程
+## 二创历程
 
 **画作**：从海量网络资源中挑选。
 
