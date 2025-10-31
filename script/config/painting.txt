@@ -1,0 +1,8 @@
+"src/painting/Green Wheat Fields.jpg" 1620 #89b789
+"src/painting/Impression, Sunrise.jpg" 1620 #9db7b8
+"src/painting/Marine.jpg" 1620 #72b8d2
+"src/painting/Self-Portrait with Grey Felt Hat.jpg" 1080 #41566b
+"src/painting/The Great Wave off Kanagawa.jpg" 1800 #2b6a8c
+"src/painting/The Persistence of Memory.jpg" 1620 #848484
+"src/painting/The Starry Night.jpg" 1620 #3953aa
+"src/painting/The Treachery of Images.jpg" 1800 #91744a

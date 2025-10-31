@@ -1,0 +1,12 @@
+"src/photography/beach.jpg" 2160 #abd0fd
+"src/photography/bridge.jpg" 1920 #d9dddc
+"src/photography/building.jpg" 1920 #454e56
+"src/photography/cloud.jpg" 1920 #e5e6ea
+"src/photography/everest.jpg" 1920 #c7dbf3
+"src/photography/ferris.jpg" 2160 #b5b5b5
+"src/photography/flower.jpg" 1920 #000000
+"src/photography/galaxy.jpg" 1920 #1a2f62
+"src/photography/moon.jpg" 1920 #000000
+"src/photography/plant.jpg" 2160 #000000
+"src/photography/rose.jpg" 1620 #000000
+"src/photography/sakura.jpg" 1920 #fbcfdd
